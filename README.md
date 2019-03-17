@@ -13,7 +13,7 @@ An order system which allow user to manage their orders.
 * Backend - [Node.js](https://nodejs.org/)
 * Frontend - [Vue](https://vuejs.org/)
 
-### Port
+## Port
 
 Backend
 * 3000 - Orders App
@@ -22,4 +22,4 @@ Backend
 Frontend
 * 8080 - Orders Portal
 
-RxJs is applied on frontend to keep track of database data.
+RxJs is applied to frontend to keep track of database data.
