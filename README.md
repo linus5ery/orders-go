@@ -1,4 +1,5 @@
-# Orders-go
+# OrdersGo
+
 An order system which built in Node.js and Vue.
 
 ## Built With
