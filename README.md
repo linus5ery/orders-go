@@ -1,6 +1,12 @@
 # OrdersGo
 
-An order system which built in Node.js and Vue.
+An order system which allow user to manage their orders.
+
+## Pages
+
+* Shop - Select items and create an order.
+* Orders - View orders details, pay order with selected payment service, and cancel order.
+* Payment Services - View available payment services.
 
 ## Built With
 
@@ -16,4 +22,4 @@ Backend
 Frontend
 * 8080 - Orders Portal
 
-RxJs is applied on frontend to keep track on database data.
+RxJs is applied on frontend to keep track of database data.
