@@ -1,0 +1,3 @@
+{"type":"A","minItemQty":5,"minSpendAmount":0,"processTimeInSec":5,"_id":"Qw7ceRSDYXV3lKVO"}
+{"type":"B","minItemQty":0,"minSpendAmount":100,"processTimeInSec":10,"_id":"Qw7ceRSDYXV3lKVP"}
+{"type":"C","minItemQty":5,"minSpendAmount":100,"processTimeInSec":10,"_id":"Qw7ceRSDYXV3lKVQ"}
